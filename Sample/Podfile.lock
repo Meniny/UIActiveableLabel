@@ -1,0 +1,16 @@
+PODS:
+  - UIActiveableLabel (1.0.0)
+
+DEPENDENCIES:
+  - UIActiveableLabel (from `../`)
+
+EXTERNAL SOURCES:
+  UIActiveableLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UIActiveableLabel: 3f208995d96f98a377fb28c03d78f462cc1ba036
+
+PODFILE CHECKSUM: 55b4e9e5a89ee467562c8fa67f9aba2bbee31b15
+
+COCOAPODS: 1.4.0
