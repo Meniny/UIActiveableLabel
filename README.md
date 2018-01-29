@@ -20,6 +20,10 @@
 
 **UIActiveableLabel** is an active-able UILabel for iOS in Swift.
 
+## 🏙 Preview
+
+<img src="./Assets/Preview.png" style="width: 25%;"/>
+
 ## 📋 Requirements
 
 - iOS 8.0+
